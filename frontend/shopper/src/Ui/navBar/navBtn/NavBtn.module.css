@@ -1,0 +1,22 @@
+
+.navBtn{
+    display:inline-flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    list-style: none;
+    transition: 1.5s;
+}
+.navBtn:hover{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.text{
+    direction: none;
+    background-color: rgb(89, 20, 179);
+    color: white;
+    text-decoration: none;
+}
+li a h3{
+    margin-top: 0;
+    margin-bottom: 0;
+}

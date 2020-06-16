@@ -1,0 +1,9 @@
+.sidebar{
+    min-width: 5em;
+    width: 15%;
+    position: relative;
+    z-index: -1;
+    float: left;
+    background-color: rgb(94, 63, 109);
+    padding-top: 2em;
+}
